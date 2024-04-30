@@ -1,0 +1,19 @@
+.st-emotion-cache-j5r0tf{
+  padding: 1rem;
+  border-radius: 0.5rem;
+  background-color: #7e99AB;
+}
+
+.diagnosis{
+    color:#fff;
+    padding: 0.2rem 0.5rem;
+    border-radius: 0.5rem;
+}
+
+.diagnosis.suffer{
+    background-color: #ff4b4b;
+}
+.diagnosis.nosuffer{
+    background-color: #01db4b;
+    
+}
